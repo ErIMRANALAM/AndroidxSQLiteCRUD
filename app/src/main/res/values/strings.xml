@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SQLite CRUD</string>
+
+    <array name="departments">
+        <item>Accountant</item>
+        <item>IT Admin</item>
+        <item>Developer</item>
+        <item>Marketing</item>
+        <item>Human Resource</item>
+    </array>
+</resources>
